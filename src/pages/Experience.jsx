@@ -23,6 +23,14 @@ const experience = [
         description:
             "Provided emergency and first aid care, managing critical situations while developing strong skills in triage, rapid decision-making, resuscitation, patient safety, and direct patient care.",
     },
+    {
+        role: "Medical Doctor ",
+        company: "Ankara Üniversitesi Tıp Fakültesi Hospital",
+        period: "Sep 2022 – February 2023",
+        location: "Ankara, Türkiye",
+        description:
+            "Completed a six-month medical rotation and training period at Ankara Üniversitesi Tıp Fakültesi Hospital, gaining clinical experience across several medical specialties and working alongside experienced healthcare professionals.",
+    },
 ];
 
 const education = [

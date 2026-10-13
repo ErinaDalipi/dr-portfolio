@@ -4,7 +4,7 @@ import {
     MapPin,
     Stethoscope,
 } from "lucide-react";
-import doctorImage1 from "../assets/Genci2.png";
+import doctorImage1 from "../assets/Photo.png";
 
 export default function About() {
     return (

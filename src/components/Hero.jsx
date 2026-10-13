@@ -1,5 +1,5 @@
 import { ArrowUpRight, CalendarDays } from "lucide-react";
-import doctorImage from "../assets/Genci2.png";
+import doctorImage from "../assets/Photo.png";
 
 export default function Hero() {
     return (
